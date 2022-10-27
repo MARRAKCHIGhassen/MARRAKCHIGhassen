@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghassen Marrakchi</h1>
 <h3 align="center">AI Research</h3>
-<iframe src="https://giphy.com/embed/rgzOwma0qMbM3x7Fqi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/visuals-network-connectivity-rgzOwma0qMbM3x7Fqi">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marrakchighassen&label=Profile%20views&color=0e75b6&style=flat" alt="marrakchighassen" /> </p>
 
