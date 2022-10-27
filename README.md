@@ -15,14 +15,12 @@
 <hr>
 
 
-I've done a lot of projects in different fields. Since three years I've started to go through research projects in Machine Learning and Deep Learning. 
-
-Now, I am currently deepening in more specified data related projects.
+I've done a lot of projects in different fields. Since three years I've started to go through research projects in Machine Learning and Deep Learning. Now, I am currently deepening in more specified data related projects.
 
 
 <h3 align="left">Domains</h3>
 <p align="left">
-Natural Langage Processing/Understanding <b>|</b> Computer Vision
+Natural Langage Processing/Understanding <b> - </b> Computer Vision
 </p>
 
 
