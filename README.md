@@ -5,7 +5,9 @@
 [![](https://visitcount.itsvg.in/api?id=MARRAKCHIGhassen&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
-<a href="[https://www.linkedin.com/in/marrakchi-ghassen/](https://www.freepik.com/free-photo/pink-nerve-network-banner-digital-healthcare_15667482.htm#query=ai%20banner&position=4&from_view=keyword)" target="_blank" rel="noreferrer"><img src='./banner.jpg' alt='copyright goes to rawpixel.com from freepik.com (https://www.freepik.com/free-photo/pink-nerve-network-banner-digital-healthcare_15667482.htm#query=ai%20banner&position=4&from_view=keyword)'></a>
+<a href="https://www.freepik.com/free-photo/pink-nerve-network-banner-digital-healthcare_15667482.htm#query=ai%20banner&position=4&from_view=keyword" target="_blank" rel="noreferrer"><img src='./banner.jpg' alt='copyright goes to rawpixel.com from freepik.com (https://www.freepik.com/free-photo/pink-nerve-network-banner-digital-healthcare_15667482.htm#query=ai%20banner&position=4&from_view=keyword)'></a>
+
+<a href="https://www.freepik.com/free-photo/pink-nerve-network-banner-digital-healthcare_15667482.htm#query=ai%20banner&position=4&from_view=keyword" target="_blank" rel="noreferrer">© rawpixel.com from freepik.com</a>
 
 
 <p align="center">
