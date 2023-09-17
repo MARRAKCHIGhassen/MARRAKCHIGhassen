@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ghassen Marrakchi
-#### Machine Learning/Deep Learning enthusiast - Future researcher
+#### Junior AI researcher
 
 
 [![](https://visitcount.itsvg.in/api?id=MARRAKCHIGhassen&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<a href="https://github.com/MARRAKCHIGhassen" target="_blank" rel="noreferrer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> <a href="https://www.linkedin.com/in/marrakchi-ghassen/" target="_blank" rel="noreferrer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>  <a href="ghassen-marrakchi.github.io" target="_blank" rel="noreferrer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
+<a href="https://github.com/MARRAKCHIGhassen" target="_blank" rel="noreferrer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg/black/white' alt='github' height='40'></a> <a href="https://www.linkedin.com/in/marrakchi-ghassen/" target="_blank" rel="noreferrer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>  <a href="ghassen-marrakchi.github.io" target="_blank" rel="noreferrer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
  <a href="mailto:ghassenmarrakchi@gmail.com" target="_blank" rel="noreferrer"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png' alt='website' height='40'></a>
 </p>
 <hr>
