@@ -18,6 +18,3 @@
 My research primarily focuses on the development and implementation of Deep Learning applications.
 
 I worked on applying deep learning in natural language processing and remote sensing. I have experience working with different data types such as time series, text, and images.
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marrakchighassen&show_icons=true&locale=en&theme=dracula&layout=compact" alt="marrakchighassen" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=marrakchighassen&show_icons=true&count_private=false&theme=dracula&locale=en" alt="marrakchighassen" /</p>
