@@ -8,5 +8,3 @@
 <hr>
 
 My research primarily focuses on the development and implementation of Deep Learning applications.
-
-I worked on applying deep learning in natural language processing and remote sensing. I have experience working with different data types such as time series, text, and images.
